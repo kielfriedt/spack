@@ -27,7 +27,7 @@ import re
 import functools
 import collections
 import inspect
-
+import random
 # Ignore emacs backups when listing modules
 ignore_modules = [r'^\.#', '~$']
 
