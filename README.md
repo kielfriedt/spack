@@ -1,7 +1,7 @@
 ![image](share/spack/logo/spack-logo-text-64.png "Spack")
 ============
 
-THIS IS A TEST
+THIS IS NOT A TEST
 
 [![Build Status](https://travis-ci.org/LLNL/spack.svg?branch=develop)](https://travis-ci.org/LLNL/spack)
 [![Coverage Status](https://coveralls.io/repos/github/LLNL/spack/badge.svg?branch=develop)](https://coveralls.io/github/LLNL/spack?branch=develop)
