@@ -34,7 +34,7 @@ import sys
 # https://github.com/Homebrew/homebrew-science/blob/master/trilinos.rb and some
 # relevant documentation/examples:
 # https://github.com/trilinos/Trilinos/issues/175
-
+#TEST
 
 class Trilinos(CMakePackage):
     """The Trilinos Project is an effort to develop algorithms and enabling
