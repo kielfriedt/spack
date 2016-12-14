@@ -28,7 +28,7 @@ import spack
 import spack.cmd
 import spack.cmd.common.arguments as arguments
 
-description = "print out abstract and concrete versions of a spec."
+description = "print out abstract and concrete versions of a spec.  test"
 
 
 def setup_parser(subparser):
